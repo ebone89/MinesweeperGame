@@ -56,6 +56,9 @@ Capture screenshots that show the following:
 4. A completed win or loss screen
 5. The player name and high score display
 
+Sample screenshots captured from the running application are stored in `Screenshots/initial.png`
+and `Screenshots/gameplay.png`.
+
 ## Notes
 
 - High scores are stored in `highscores.json` in the application output folder.
