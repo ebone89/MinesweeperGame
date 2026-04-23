@@ -46,19 +46,6 @@ dotnet build
 6. The score is based on the number of safe cells revealed.
 7. If the score is higher than the stored high score, it can be saved to file.
 
-## Screenshot Checklist
-
-Capture screenshots that show the following:
-
-1. The main window after the program starts
-2. A game in progress with several revealed squares
-3. A flagged square using right-click
-4. A completed win or loss screen
-5. The player name and high score display
-
-Sample screenshots captured from the running application are stored in `Screenshots/initial.png`
-and `Screenshots/gameplay.png`.
-
 ## Notes
 
 - High scores are stored in `highscores.json` in the application output folder.
